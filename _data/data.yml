@@ -1,5 +1,5 @@
 #
-# Be aware that even a small syntax error here can lead to failures in output. 
+# Be aware that even a small syntax error here can lead to failures in output.
 #
 
 sidebar:
@@ -7,12 +7,12 @@ sidebar:
     title: My Resume
     url: 'http://webjeda.com'
     about: true # set to False or comment line if you want to remove the "How to use?" in the sidebar
-    
+
     # Profile information
-    name: Alan Doe
+    name: Virgile 
     tagline: Full Stack Developer
     pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
-    
+
     # Sidebar links
     email: hello@webjeda.com
     phone: 012 345 6789
@@ -31,7 +31,7 @@ sidebar:
         - language:
           idiom: Spanish
           level: Professional
-        
+
     interests:
         - interest:
           item: Climbing
@@ -43,17 +43,17 @@ sidebar:
           item: Cooking
           link:
 
-        
 
 
 
 
-career-profile: 
+
+career-profile:
     title: Career Profile
     text: 'Summarise your career here lorem ipsum dolor sit amet, consectetuer adipiscing elit.You can <a href="#" target="_blank">download this free resume/CV template here</a>. Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu.'
 
 
-studies: 
+studies:
     - education:
       degree: MSc in Computer Science
       university: University of London
@@ -76,8 +76,8 @@ studies:
 
 experiences:
     title: Experiences
-    
-    
+
+
     experiences:
         - role: Lead Developer
           time: 2015 - Present
@@ -88,7 +88,7 @@ experiences:
           time: 2014 - 2015
           company: Google, London
           details: Describe your role here lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu, pretium quis, sem.
-        
+
         - role: UI Developer
           time: 2012 - 2014
           company: Amazon, London
@@ -99,7 +99,7 @@ projects:
     title: Projects
     intro: "You can list your side projects or open source libraries in this section. Lorem ipsum dolor
       sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+
     projects:
       - project:
         title: Velocity
@@ -129,7 +129,7 @@ projects:
 publications:
     title: Publications
     intro: "You can list your publications in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus."
-    
+
     publications:
       - paper:
         title: The Art of Computer Programming
@@ -156,7 +156,7 @@ skills:
           level: 98%
         - skill:
           name: Angular
-          level: 98%
+          level: 0%
         - skill:
           name: HTML5 & CSS
           level: 95%
@@ -168,5 +168,5 @@ skills:
           level: 60%
 
 
-footer: 
+footer:
     text: 'Designed with <i class="fa fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a> for developers'
